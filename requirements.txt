@@ -1,0 +1,11 @@
+tensorflow
+transformers
+torch
+gradio
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+jupyter
